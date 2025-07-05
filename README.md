@@ -4,7 +4,7 @@
 
 BookSlot is a full-stack booking application developed using the MERN stack. The app features real-time booking management, search and filtering functionalities, secure user authentication, and payment integration. Stripe is used for payments, and Cloudinary handles image uploads. Tailwind CSS is utilized for a responsive and modern UI design.
 
-![BookSlot](https://github.com/user-attachments/assets/0bb6a58b-6a96-452f-8b11-bc002c4d477b)
+<!--  -->
 
 ## Features
 
@@ -50,8 +50,8 @@ BookSlot is a full-stack booking application developed using the MERN stack. The
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishek751982/BookSlot.git
-    cd AbhiBook
+    git clone https://github.com/Aditi090905/book-slott.git
+    cd AditiBook
     ```
 
 2. **Install server dependencies**:
@@ -73,7 +73,7 @@ BookSlot is a full-stack booking application developed using the MERN stack. The
 
     ```env
     MONGODB_CONNECTION_STRING
-    JWT_SECRET_KEY= abhishek
+    JWT_SECRET_KEY= aditi
     FRONTEND_URL=
     
     # Cloudinary Variables
@@ -102,11 +102,11 @@ BookSlot is a full-stack booking application developed using the MERN stack. The
 
 ## About Me
 
-I am Abhishek Sharma a final year student at IIIT Gwalior pursuing Integrated Post Graduate (B.Tech+M.Tech) degree in Information Technology. Do checkout my LinkedIn and connect with me.
+I am Aditi Sharma a second year student pursuing Computer SCience Engineering with highly psssion about tech and  technology
 
 ### Connect with me :
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek751982@gmail.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-sharma-31b04a213/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmaditi0909@gmail.com)
+
 
 
