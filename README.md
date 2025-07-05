@@ -102,7 +102,7 @@ BookSlot is a full-stack booking application developed using the MERN stack. The
 
 ## About Me
 
-I am Aditi Sharma a second year student pursuing Computer SCience Engineering with highly psssion about tech and  technology
+I am Aditi Sharma a second year student pursuing Computer science Engineering with highly passion about tech and  technology
 
 ### Connect with me :
 
